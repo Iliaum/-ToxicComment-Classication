@@ -13,7 +13,7 @@
 
 ## Структура репозитория
 
-`notebook` - Jupyter-ноутбук с решением.  
+`toxic-comment-detection-with-bert.ipynb` - Jupyter-ноутбук с решением.  
 `requirements.txt` — список зависимостей.
 
 Установите зависимости:
