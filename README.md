@@ -47,7 +47,7 @@
 ## Структура репозитория
 
 ```
-toxic-comment-detection-with-bert.ipynb  — Jupyter-ноутбук с решением.
+notebook.ipynb  — Jupyter-ноутбук с решением.
 requirements.txt                         — список зависимостей.
 ```
 
