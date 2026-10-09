@@ -47,8 +47,8 @@
 ## Структура репозитория
 
 ```
-notebook.ipynb  — Jupyter-ноутбук с решением.
-requirements.txt                         — список зависимостей.
+notebook.ipynb — Jupyter-ноутбук с решением.
+requirements.txt — список зависимостей.
 ```
 
 Установите зависимости:
